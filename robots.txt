@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ivangri2.github.io/OFFEWS-Trainers/sitemap.xml
